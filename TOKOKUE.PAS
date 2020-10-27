@@ -25,7 +25,7 @@ if (kodekue=1) then
                    hargatot :=(jumlahkue*hargakue);
                    writeln('total harga:',hargatot:4:0);
                    readln;
-                   end
+                end
 
 else if (kodekue=2) then
                    begin
@@ -37,7 +37,7 @@ else if (kodekue=2) then
                    hargatot :=(jumlahkue*hargakue);
                    writeln('total harga:',hargatot:4:0);
                    readln;
-					  end
+	 	end
 
 else if (kodekue=3) then
                    begin
@@ -49,7 +49,8 @@ else if (kodekue=3) then
                    hargatot :=(jumlahkue*hargakue);
                    writeln('total harga:',hargatot:4:0);
                    readln;
-				   end
+		end
+		
 else if (kodekue=4) then
                    begin
                    namakue :='Rainbows cake';
@@ -60,7 +61,7 @@ else if (kodekue=4) then
                    hargatot :=(jumlahkue*hargakue);
                    writeln('total harga:',hargatot:4:0);
                    readln;
-				   end;
-					readln;
+		end;
+	readln;
 
 end.
