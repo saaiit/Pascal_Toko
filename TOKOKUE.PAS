@@ -63,5 +63,5 @@ else if (kodekue=4) then
                    readln;
 		end;
 	readln;
-
+		writeln('Terima Kasih telah berbelanja di Toko kami');
 end.
